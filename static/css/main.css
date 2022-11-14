@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    padding-top: 25px;
+    text-align: center;
+}
+
+table, th, td{
+    border: 1px solid #02484d;
+    border-spacing: 0;
+    width: 33%;
+    font-size:14px;
+    margin-left: auto;
+    margin-right: auto;
+    border: .5px;
+    border-style: solid;
+}
